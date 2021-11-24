@@ -1,0 +1,1 @@
+# Basic blockchain build with JS with Proof of work (POW) implementation.
